@@ -20,7 +20,7 @@ const buttonVariants = cva(
         link: "text-primary underline-offset-4 hover:underline",
         // Brigagency brand variants
         primary: "bg-gradient-primary text-white hover:shadow-brand hover:scale-105 transform",
-        cta: "bg-gradient-accent text-white hover:shadow-orange hover:scale-105 transform font-semibold",
+        cta: "bg-gradient-accent text-primary hover:shadow-orange hover:scale-105 transform font-semibold",
         hero: "bg-brand-orange text-white hover:bg-brand-orange-dark hover:shadow-orange hover:scale-105 transform font-semibold text-lg px-8 py-4",
         outline_brand: "border-2 border-brand-orange text-brand-orange bg-transparent hover:bg-brand-orange hover:text-white",
         navy: "bg-brand-navy text-white hover:bg-brand-navy-light hover:shadow-brand hover:scale-105 transform",

@@ -99,7 +99,7 @@ const Header = () => {
                   Free Trial
                 </a>
               </Button>
-              <Button variant="cta" className="w-full" asChild>
+              <Button variant="outline_brand" className="w-full" asChild>
                 <a href="https://salescentri.com/get-started/book-demo">
                   Book Demo
                 </a>
